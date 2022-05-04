@@ -1,0 +1,84 @@
+{
+"results": [
+{
+	"id" : "1",
+	"dia" : "08/04/2022",
+	"elevento" : "Concierto A.M. Virgen de la Vega.",
+	"localizacion" : "Capilla de la Soledad",
+	"hora" : "18:00",
+	"cofradia": "Nazareno y Santo Entierro"
+},
+{
+	"id" : "2",
+	"dia" : "26/03/2022",
+	"elevento" : "Pregón Amor y Paz",
+	"localizacion" : "Capilla de Santa Catalina de la Catedral Vieja.",
+	"hora" : "20:00",
+	"cofradia": "Vera Cruz"
+},
+{
+	"id" : "3",
+	"dia" : "07/03/2022",
+	"elevento" : "Concierto A.M. La expiración.",
+	"localizacion" : "Iglesia San Sebastián.",
+	"hora" : "20:30",
+	"cofradia": "Amor y Paz"
+},
+{
+	"id" : "4",
+	"dia" : "26/03/2022",
+	"elevento" : "Concierto de Tomás Bretón y Vía crucis con el Cristo de la Agonía.",
+	"localizacion" : "Iglesia San Sebastián.",
+	"hora" : "19:00",
+	"cofradia": "Vera Cruz"
+},
+{
+	"id" : "5",
+	"dia" : "27/03/2022",
+	"elevento" : "Concierto de la Estrella",
+	"localizacion" : "Iglesia de San Julián.",
+	"hora" : "18:30",
+	"cofradia": "Amor y Paz"
+},
+{
+	"id" : "6",
+	"dia" : "12/04/2022",
+	"elevento" : "Via Matris",
+	"localizacion" : "Iglesia de la Vera Cruz.",
+	"hora" : "20:30",
+	"cofradia": "Nazareno y Santo Entierro"
+},
+{
+	"id" : "7",
+	"dia" : "08/04/2022",
+	"elevento" : "Traslado Cristo de la Liberación",
+	"localizacion" : "Capilla del cementerio católico San Carlos Borromeo.",
+	"hora" : "23:00",
+	"cofradia": "Nazareno y Santo Entierro"
+},
+{
+	"id" : "8",
+	"dia" : "29/04/2022",
+	"elevento" : "Traslado Cristo de la Liberación",
+	"localizacion" : "Capilla del cementerio católico San Carlos Borromeo.",
+	"hora" : "23:00",
+	"cofradia": "Nazareno y Santo Entierro"
+},
+{
+	"id" : "9",
+	"dia" : "26/04/2022",
+	"elevento" : "Traslado Cristo de la Liberación",
+	"localizacion" : "Capilla del cementerio católico San Carlos Borromeo.",
+	"hora" : "19:15",
+	"cofradia": "Vera Cruz"
+},
+{
+	"id" : "10",
+	"dia" : "02/05/2022",
+	"elevento" : "Traslado Cristo de la Liberación",
+	"localizacion" : "Capilla del cementerio católico San Carlos Borromeo.",
+	"hora" : "18:25",
+	"cofradia": "Vera Cruz"
+}
+]
+}

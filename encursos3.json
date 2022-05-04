@@ -1,0 +1,248 @@
+﻿{
+"results": [
+{
+"id": "1",
+"dia":"Viernes de Dolores",
+"hermandades": [
+{
+	"logo": "pveracruz64",
+	"nombre_corto": "Vera Cruz",
+	"cofradia": "Ilustre Cofradía de la Santa Cruz del Redentor y de la Purísima Concepción de la Virgen, Su Madre. Vera Cruz",
+	"recorrido": "Iglesia de la Vera Cruz, Calle Domínguez Berrueta, Calle Ramón y Cajal, Plaza de las Agustinas, Calle de la Compañía, Plaza de San Benito, (Acto del Via Matris), Calle de la Compañía, Calle Meléndez, Plaza del Corrillo, Calle Juan del Rey, Calle Prado, Calle Doctrinos, Plaza de Monterrey, Calle Bordadores, Paseo de las Úrsulas e Iglesia de la Vera Cruz.",
+	"horario": "20:30H. Iglesia de la Vera Cruz.",
+	"paso": "Stma. Virgen de los Dolores (Felipe del Corral, S.XVIII)."
+},
+{
+	"logo": "pamorypaz64",
+	"nombre_corto": "Amor y Paz. Liberación",
+	"cofradia": "Hermandad del Cristo del Amor y de la Paz. Sección del Santísimo Cristo de la Liberación, traslado de la imagen del Santísimo Cristo de la Liberación",
+	"recorrido": "Salida del cementerio San Carlos Borromeo, Glorieta de Ramiro II, Camino del Cementerio, Avenida de los Maristas, Paseo de San Vicente, Calle Espejo, Plaza de Fonseca, Calle Fonseca y capilla del Colegio del Arzobispo Fonseca.",
+	"horario": "23:00H. Capilla del cementerio católico San Carlos Borromeo.",
+	"paso": "Santísimo Cristo de la Liberación (Vicente Cid, 1988)."
+}
+]
+},
+{
+"id": "2",
+"dia":"Sabado de Pasión",
+"hermandades": [
+{
+	"logo": "prosario64",
+	"nombre_corto": "Rosario",
+	"cofradia": "Cofradía penitencial del Rosario",
+	"recorrido": "Iglesia de San Esteban, Plaza del Concilio de Trento, Calle San Pablo, Calle Felipe Espino, Rúa Mayor, Calle Quintana, Calle Juan del Rey, Calle Prado, Calle Doctrinos, Calle de la Compañía, Rúa Mayor, Plaza de Anaya, S.I.B Catedral Nueva (entrada y salida por puerta del Obispo) Calle Calderón de la Barca, Calle Libreros, Plaza de San Isidro, Rúa Antigua, Calle Jesús, Calle San Pablo, Plaza del Concilio de Trento, Iglesia de San Esteban.",
+	"horario": "18:30H. Iglesia de San Esteban, PP.Dominicos",
+	"paso": "N.P Jesús de la Redención."
+},
+{
+	"logo": "pnazareno64",
+	"nombre_corto": "Humildad",
+	"cofradia": "Hermandad franciscana del Santísimo Cristo de la Humildad",
+	"recorrido": "Iglesia de San Martín, Calle Quintana, Calle Juan del Rey, Calle Prado, Plaza De San Benito, Calle Cañizal, Calle Carniceros, Calle Rabanal, Calle Cervantes, Calle Serranos, Calle Traviesa, Calle Libreros, Calle Tavira, Calle Horno, Calle Veracruz, Calle Tentenecio, Calle Gibraltar, Patio Chico (acto oracional con acompañamiento coral), Calle Arcediano, Plaza de los Leones, Calle Doyagüe, Plaza de Carvajal, Calle San Vicente Ferrer, Calle Silencio, Calle Tostado, Plaza de Anaya, Calle Francisco Vitoria, Rúa Antigua, Calle de la Compañía, Plaza de San Benito, Calle Prado, Calle Juan del Rey, Calle Quintana e Iglesia de San Martín.",
+	"horario": "22:00H. Iglesia de San Martín",
+	"paso": "Santísimo Cristo de la Humildad."
+}
+]
+},
+{
+"id": "3",
+"dia":"Domingo de Ramos",
+"hermandades": [
+{
+	"logo": "pborriquita64",
+	"nombre_corto": "Borriquilla",
+	"cofradia": "Hermandad Jesús Amigo de los Niños(la Borriquilla)",
+	"recorrido": "S.I.B Catedral Nueva (Puerta de Ramos), Atrio de la Catedral, Calle Calderón de la Barca, Calle Libreros, Plaza de San Isidro, Calle de la Compañía, Calle Meléndez, Plaza del Corrillo, Plaza Mayor, Plaza del Poeta Iglesias, Calle Quintana, Rúa Mayor, Rúa Antigua, Plaza de Anaya, S.I.B Catedral Nueva.",
+	"horario": "12:00H. S.I.B. Catedral Nueva.",
+	"paso": "Jesús Amigo de los Niños (Borriquilla) (Carlos Guerra-Del Moral Santos, 2009)."
+},
+{
+	"logo": "pperdon64",
+	"nombre_corto": "Perdón",
+	"cofradia": "Hermandad de nuestro padre Jesús del Perdón",
+	"recorrido": "S.I.B Catedral Nueva (Salida por Puerta del Obispo), Calle Calderón de la Barca, Calle Libreros, Plaza de San Isidro, Isla de la Rúa, Rúa Antigua, Calle Jesús, Plaza Colón, (Juzgados -acto del indulto-), Calle Caldereros, Gran Vía, Calle Marquesa de Almarza, Calle Cáliz, Calle Hortaleza, Paseo Canalejas, Calle San Quintín, Calle Imperial, Calle La Marina (por boulevard) Paseo San Antonio, Camino de la Aguas y Convento de la RR. MM. Bernardas.",
+	"horario": "17:00H. S.I.B. Catedral",
+	"paso": "Camino del Calvario (1988).. Nuestro Padre Jesús del Perdón (Bernardo Pérez de Robles, S.XVII)."
+},
+{
+	"logo": "pdespojado64",
+	"nombre_corto": "Despojado y Caridad",
+	"cofradia": "Hermandad de penitencia de Nuestro Padre Jesús Despojado de sus Vestiduras y María Santísima de la Caridad y del Consuelo",
+	"recorrido": "Iglesia de La Purísima, Plaza de las Agustinas, Calle de la Compañía, Isla de la Rúa, Rúa Mayor, Plaza Anaya, Calle Benedicto XVI, (entrada y salida en la S.I.B. Catedral Nueva por la puerta del Obispo), Calle Calderón de la Barca, Calle Libreros, Plaza San Isidro, Rúa Antigua, Rúa Mayor, Calle Quintana, Plaza Poeta Iglesias, Plaza Mayor, Plaza del Corrillo, Calle Meléndez, Calle de la Compañía, Plaza de las Agustinas, Iglesia de La Purísima.",
+	"horario": "18:00H. Iglesia de la Purísima.",
+	"paso": "Nuestro Padre Jesús Despojado de sus Vestiduras (Francisco Romero Zafra, 2012). María Santísima de la Caridad y del Consuelo (Francisco Romero Zafra, 2013)"
+}
+]
+},
+{
+"id": "4",
+"dia":"Lunes Santo",
+"hermandades": [
+{
+	"logo": "pveracruz64",
+	"nombre_corto": "Vera Cruz",
+	"cofradia": "Ilustre Cofradía de la Santa Cruz del Redentor y de la Purísima Concepción de la Virgen, Su Madre. Vera Cruz",
+	"recorrido": "Iglesia de la Vera Cruz, Calle Domínguez Berrueta, Calle Ramón y Cajal, Plaza de las Agustinas, Calle de la Compañía, Rúa Antigua, Calle Francisco Vitoria, Plaza de Anaya, Atrio de la Catedral, S.I.B Catedral Nueva (entrada por Puerta de Ramos y salida por Puerta del Obispo) Calle Calderón de la Barca, Calle Libreros, Calle Traviesa, Calle Serranos, Calle Cervantes, Calle Cañizal, Calle de la Compañía, Plaza de las Agustinas, Plaza de Monterrey, Calle Bordadores, Paseo de las Úrsulas e Iglesia de la Vera Cruz.",
+	"horario": "21:00H. Iglesia de la Vera Cruz.",
+	"paso": "Santísimo Cristo de los Doctrinos (Anónimo, S. XVII). Virgen de la Amargura (Pedro Hernández, 1615)."
+}
+]
+},
+{
+"id": "5",
+"dia":"Martes Santo",
+"hermandades": [
+{
+	"logo": "pestudiantes64",
+	"nombre_corto": "Universitaria",
+	"cofradia": "Hermandad Universitaria del Santísimo Cristo de la Luz y Nuestra Señora de la Sabiduría",
+	"recorrido": "Iglesia del Espíritu Santo (Clerecía), Plaza de San Isidro, Calle Libreros, Patio de Escuelas (Oración y promesa de Silencio), Calle Libreros, Calle Calderón de la Barca, Calle Benedicto XVI, Rúa Antigua, Rúa Mayor, Plaza del Corrillo, Calle Juan del Rey, Calle Prado, Calle Prior, Plaza de Monterrey, Calle de la Compañía , Rúa Antigua, Iglesia del Espíritu Santo (Clerecía).",
+	"horario": "21:15H. Iglesia del Espíritu Santo (Clerecía).",
+	"paso": "Paso: Santísimo Cristo de la Luz (Esteban de Rueda, s. XVII) y Nuestra Señora, Madre de la Sabiduría (anónima anterior al Cristo, formando un conjunto de gran belleza)."
+}
+]
+},
+{
+"id": "6",
+"dia":"Miercoles Santo",
+"hermandades": [
+{
+	"logo": "pflagelado64",
+	"nombre_corto": "Flagelado y Lagrimas",
+	"cofradia": "Hermandad de Nuestro Padre Jesús Flagelado y Nuestra Señora de las Lágrimas",
+	"recorrido": "Iglesia del Espíritu Santo (Clerecía), Plaza de San Isidro, Calle Libreros, Calle Calderón de la Barca, Calle Benedicto XVI, Rúa Antigua, Rúa Mayor, Calle Quintana, Poeta Iglesias, Plaza Mayor, Calle Prior, Plaza de Monterrey, Calle de la Compañía, Plaza de San Isidro, Iglesia del Espíritu Santo (Clerecía).",
+	"horario": "21:30H. Iglesia del Espíritu Santo (Clerecía).",
+	"paso": "Nuestro Padre Jesús Flagelado (Luis Salvador Carmona, 1760).. Nuestra Señora de las Lágrimas (José Miguel Sánchez Peña, 1977)."
+}
+]
+},
+{
+"id": "7",
+"dia":"Jueves Santo",
+"hermandades": [
+{
+	"logo": "pyacente64",
+	"nombre_corto": "Yacente y Agonia",
+	"cofradia": "Real Cofradía Penitencial del Cristo Yacente de la Misericordia y de la Agonía Redentora",
+	"recorrido": "S.I.B Catedral Nueva (salida por Puerta de Ramos), atrio de la Catedral, Plaza de Anaya, Calle Tostado, Calle San Pablo, Plaza del Poeta Iglesias, Calle Quintana, Calle Juan del Rey, Calle Prado, Calle Doctrinos, Calle de la Compañía, Rúa Antigua, Plaza San Isidro, Calle Libreros, Calle Calderón de la Barca, S.I.B Catedral Nueva.",
+	"horario": "00:00H. S.I.B. Catedral Nueva.",
+	"paso": "Santísimo Cristo de la Agonía Redentora (Anónimo, 1525). Santísimo Cristo Yacente de la Misericordia (Enrique Orejudo, 1991)."
+},
+{
+	"logo": "pviacrucis64",
+	"nombre_corto": "Via Crucis",
+	"cofradia": "Hermandad de Nuestro Padre Jesús del Vía Crucis",
+	"recorrido": "S.I.B Catedral Nueva, Plaza Juan XXIII, Calle Calderón de la Barca, Calle Libreros, Plaza de San Isidro, Calle de la Compañía, Calle Meléndez, Plaza del Corrillo, Calle Juan del Rey, Calle Prado, Calle Prior, Plaza de Monterrey, Calle Bordadores, Cuesta del Carmen, Plaza de la Fuente, Avenida Villamayor, (Entrada al Hospital de la Santísima Trinidad), Avenida Villamayor, Calle Candelario, Avenida Filiberto Villalobos, Calle Peña de Francia y atrio de la Parroquia San Juan de Mata.",
+	"horario": "17:15H. S.I.B. Catedral Nueva.",
+	"paso": "Nuestro Padre Jesús del Vía Crucis (Antonio Malmierca Zúñiga (2007)."
+},
+{
+	"logo": "pserafica64",
+	"nombre_corto": "Serafica",
+	"cofradia": "Seráfica Hermandad de Nazarenos del Santísimo Cristo de la Agonía",
+	"recorrido": "Iglesia de la Purísima, Plaza de las Agustinas, Calle de la Compañía, Plaza de San Isidro, Calle Libreros, Calle Calderón de la Barca, S.I.B Catedral Nueva, Calle Benedicto XVI, Rúa Mayor, Plaza del Corrillo, Calle Juan del Rey, Calle Prado, Calle Doctrinos, Calle de la Compañía, Plaza de las Agustinas e Iglesia de la Purísima.",
+	"horario": "20:00H. Iglesia de la Purísima.",
+	"paso": "El Prendimiento (Damián Villar, 1948). Jesús ante Pilatos (Francisco González Macías, 1948). Santísimo Cristo de la Agonía (Damián Villar, 1960). Dolorosa (Soriano Montagut, 1939)"
+},
+{
+	"logo": "pamorypaz64",
+	"nombre_corto": "Amor y Paz",
+	"cofradia": "Hermandad del Cristo del Amor Y de la Paz",
+	"recorrido": "Antigua Iglesia del Arrabal, Paseo del Progreso, Carretera de Madrid, Puente Romano, Paseo del Rector Esperabé, Ribera del Puente, Calle Tentenecio, Plaza Juan XXIII, (entrada en S.I.B Catedral Nueva por Puerta del Obispo y salida por Puerta de Ramos), Acto Penitencial en el atrio de la Catedral, reanudación de la procesión por la Plaza de Anaya, Rúa Mayor, Calle Meléndez, Calle de la Compañía, Rúa Antigua, Plaza de San Isidro, Calle Libreros, Calle VeraCruz, Calle Tentenecio, Ribera del Puente, Puente Romano, Carretera de Madrid, Paseo del Progreso y antigua Iglesia del Arrabal.",
+	"horario": "20:30H. Antigua Iglesia del Arrabal (Ribera del puente)",
+	"paso": "Cristo del Amor y de la Paz (Anónimo, S. XVII). María Nuestra Madre (Hipólito Pérez Calvo, 1987)"
+}
+]
+},
+{
+"id": "8",
+"dia":"Viernes Santo",
+"hermandades": [
+{
+	"logo": "pdominicana64",
+	"nombre_corto": "Dominicana",
+	"cofradia": "Hermandad Dominicana del Santísimo Cristo de la Buena Muerte, Nuestro Padre Jesús de la Pasión, Ntra. Sra. de los Dolores Y Ntra. Sra. de la Esperanza.",
+	"recorrido": "Iglesia del Convento de San Esteban (PP. Dominicos), Plaza del Concilio de Trento, Calle San Pablo, Calle Palominos, Rúa Mayor, Plaza de Anaya, S.I.B Catedral Nueva (entrada por la puerta de Ramos, salida por la puerta del Obispo), Calle Calderón de la Barca, Calle Libreros, Plaza de San Isidro, Calle de la Compañía, Calle Meléndez, Plaza del Corrillo, Plaza Mayor, Plaza del Poeta Iglesias, Calle San Pablo, Calle Juan de la Fuente, Calle Rosario y Atrio de San Esteban. Continúa Nuestra Sra. de los Dolores por Calle Tostado, Plaza de Anaya y S.I.B. Catedral Nueva.",
+	"horario": "05:00H. Iglesia San Esteban (PP Dominicos) y S.I.B Catedral Nueva.",
+	"paso": "Nuestro Padre Jesús de la Pasión (Damián Villar, 1945)..Santísimo Cristo de la Buena Muerte (Anónimo, S. XVII)..Nuestra Señora de los Dolores (Piedad), (Luis Salvador Carmona, 1760).Nuestra Señora de la Esperanza (Damián Villar, 1952)."
+},
+{
+	"logo": "pveracruz64",
+	"nombre_corto": "Descendimiento y Procesión Santo Entierro",
+	"cofradia": "Ilustre Cofradía de la Santa Cruz del Redentor y de la Purísima Concepción de la Virgen, Su Madre. Vera Cruz",
+	"recorrido": "Iglesia de la Vera Cruz, Calle Domínguez Berrueta, Calle Ramón y Cajal, Plaza de las Agustinas, Calle de la Compañía, Rúa Antigua, Plaza de San Isidro, Calle Libreros, Calle Calderón de la Barca, Calle Benedicto XVI, Plaza de Anaya, Rúa Mayor, Calle Quintana, Plaza del Poeta Iglesias, Plaza Mayor, Plaza del Corrillo, Calle Juan del Rey, Calle Prado, Calle Prior, Plaza de Monterrey, Calle Bordadores, Paseo de las Úrsulas e Iglesia de la Vera Cruz.",
+	"horario": "Descendimiento: 16:00H. En el Humilladero del parque San Francisco. Procesión: 16:30H. Iglesia de la Vera Cruz.",
+	"paso": "La Flagelación del Salvador “Los Azotes” (Alejandro Carnicero, 1724)..El Balcón de Pilato “La Caña” (Juan de Villabrile y Ron, finales del S. XVII)..N. P. Jesús con la Cruz a Cuestas (Juan de Villabrile y Ron, finales del S. XVII). La Caída (anónimo 1617/Francisco González Macías, 1943). El Calvario (conjunto compuesto por el Smo. Cristo de los Doctrinos (anónimo finales S. XVII), Virgen de la Amargura, San Juan (Pedro Hernández 1615) y María Magdalena (anónimo anterior a 1700). Stma. Virgen de los Dolores (Felipe del Corral, S. XVIII).Santo Sepulcro (anónimo, 1678) En el interior de la urna, Cristo Nuestro Bien (Pedro Hernández, 1615)."
+},
+{
+	"logo": "pnazareno64",
+	"nombre_corto": "Nazareno y Santo Entierro",
+	"cofradia": "Ilustre y Venerable Congregación de Nuestro Padre Jesús Nazareno y Santo Entierro",
+	"recorrido": "Iglesia de San Julián y Santa Basilisa, Calle Obispo Jarrín, Plaza del Mercado, Plaza del Poeta Iglesias, Plaza Mayor, Plaza del Corrillo, Calle Juan del Rey, Calle Prado, Calle Prior, Plaza de Monterrey, Calle de la Compañía, Rúa Antigua, Calle Francisco Vitoria, Plaza de Anaya, Rúa Mayor, Calle Quintana, Plaza del Poeta Iglesias, Plaza del Mercado, Calle Obispo Jarrín, Iglesia de San Julián y Santa Basilisa.",
+	"horario": "18:00H. Iglesia de San Julián y Santa Basilisa",
+	"paso": "Jesús en la calle de la Amargura (la figura de Jesús, el Cirineo, el soldado y el sayón (José de Larra Churriguera, 1716) la Virgen María (Antonio Hernández, 1797). Santo Entierro (Francisco González Macías, 1942)"
+},
+{
+	"logo": "phuerto64",
+	"nombre_corto": "Huerto",
+	"cofradia": "Cofradía de la Oración en el Huerto de dos Olivos",
+	"recorrido": "Iglesia del Carmen de Abajo, Arroyo de Santo Domingo, Paseo del Rector Esperabé, Calle Tentenecio, Plaza Juan XXXIII, Benedicto XVI, Plaza Anaya, Rúa Mayor, Calle Quintana, Plaza del Corrillo, Plaza Mayor, Plaza del Poeta Iglesias, Calle San Pablo, Calle Juan de la Fuente, Plaza Concilio de Trento, Arroyo de Santo Domingo, Iglesia del Carmen de Abajo.",
+	"horario": "18:15H. Iglesia del Carmen del Abajo.",
+	"paso": "Oración de Jesús en el Huerto de los Olivos (Siglos, XVII y XVIII)."
+},
+{
+	"logo": "prescatado64",
+	"nombre_corto": "Rescatado y Angustias",
+	"cofradia": "Ilustre y Venerable Congregación de Nuestro Padre Jesús Divino Redentor Rescatado y Nuestra Señora de las Angustias",
+	"recorrido": "Parroquia de San Pablo, Plaza de Colón, Calle San Pablo, Calle Tostado, Calle Silencio, Calle San Vicente Ferrer, Plaza de los Leones, Calle Arcediano, Patio Chico, Calle Gibraltar, Calle Veracruz, Calle Libreros, Calle Calderón de la Barca, S.I.B. Catedral Nueva (entrada y salida por puerta del Obispo), Plaza de Anaya, Rúa Mayor, Calle Quintana, Plaza del Poeta Iglesias, Calle San Pablo, Plaza de Colón, Parroquia de San Pablo.",
+	"horario": "18:30H. Parroquia de San Pablo.",
+	"paso": "Jesús Divino Redentor Rescatado (Anónimo, S. XVIII). Nuestra Señora de las Angustias (Anónimo, S. XVIII)"
+}
+]
+},
+{
+"id": "9",
+"dia":"Sabado Santo",
+"hermandades": [
+{
+	"logo": "psoledad64",
+	"nombre_corto": "Soledad",
+	"cofradia": "Hermandad de Nuestra Señora de la Soledad",
+	"recorrido": "S.I.B. Catedral Nueva (salida por puerta del Obispo), Calle Benedicto XVI, Plaza de Anaya, Rúa Mayor, Calle Quintana, Plaza del Poeta Iglesias, Plaza Mayor, Plaza del Corrillo, Calle Prado, Calle Prior, Plaza de Monterrey, Calle de la Compañía, Rúa Antigua, Calle Libreros, Patio de Escuelas Menores, Calle Calderón de la Barca, S.I.B. Catedral Nueva (entrada por Puerta del Obispo).",
+	"horario": "00:00H. S.I.B. Catedral Nueva.",
+	"paso": "La Soledad de la Cruz (Vicente Cid y Tomás Monzón, 1997). Nuestra Señora de la Soledad (Mariano Benlliure, 1941)"
+},
+{
+	"logo": "pamorypaz64",
+	"nombre_corto": "Liberación",
+	"cofradia": "Hermandad del Cristo del Amor y de la Paz. (Sección del Santísimo Cristo de la Liberación)",
+	"recorrido": "Colegio Arzobispo Fonseca, Cuesta de San Blas, Calle Cervantes, Calle Serranos, Calle Traviesa, Calle Libreros, Calle Tavira, Plaza Juan XXIII, Calle Benedicto XVI, Calle Francisco Vitoria, Rúa Antigua, Calle de la Compañía, Calle Ramón y Cajal, Calle Fonseca, Colegio Arzobispo Fonseca.",
+	"horario": "00:30H. Colegio Arzobispo Fonseca",
+	"paso": "Santísimo Cristo de la Liberación (Vicente Cid Pérez, 1988)"
+},
+{
+	"logo": "psilencio64",
+	"nombre_corto": "Silencio",
+	"cofradia": "Hermandad del Silencio",
+	"recorrido": "Parroquia de Jesús Obrero, Carretera de Ledesma, Calle Valverdón, Avenida de Villamayor, Plaza de la Fuente, Plaza San Juan Bautista, Calle Santa Teresa, Plaza de los Bandos, Calle Zamora, Plaza Mayor, Plaza Poeta Iglesias, Calle Quintana, Calle Juan del Rey, Calle Prado, Calle Prior, Calle Bordadores, Paseo de las Úrsulas, Campo de San Francisco, Calle Abajo, Calle Arriba, Plaza de la Fuente, Avenida de Villamayor, Calle Valverdón, Carretera de Ledesma, Iglesia de Jesús Obrero.",
+	"horario": "17:00H. Iglesia Parroquial de Jesús Obrero (Pizarrales)",
+	"paso": "Cristo de la Vela (Anónimo, 1920). Nuestra Señora del Silencio (Enrique Orejudo, 1990)"
+}
+]
+},
+{
+"id": "10",
+"dia":"Domingo de Resurreción",
+"hermandades": [
+{
+	"logo": "pveracruz64",
+	"nombre_corto": "Vera Cruz",
+	"cofradia": "Ilustre Cofradía de la Santa Cruz del Redentor y de la Purísima Concepción de la Virgen, Su Madre. Vera Cruz",
+	"recorrido": "Procesión NTRA.SRA. de la Alegria: Iglesia de la Vera Cruz, Paseo de las Úrsulas, Calle Bordadores, Plaza de Monterrey, Calle Prior, Calle Prado, Plaza del Corrillo, Calle Quintana, Plaza Poeta Iglesias, Calle San Pablo, Calle Tostado, Plaza de Anaya y Atrio de la Catedral. Procesión Jesús Resucitado: Iglesia de la Vera Cruz, Calle Domínguez Berrueta, Calle Ramón y Cajal, Plaza de las Agustinas, Calle de la Compañía, Rúa Antigua, Plaza de San Isidro, Calle Libreros, Calle Calderón de la Barca, Calle Benedicto XVI y Atrio de la Catedral. Procesión conjunta: Atrio de la Catedral, Plaza de Anaya, Rúa Mayor, Calle Quintana, Plaza del Poeta Iglesias, Plaza Mayor, Calle Prior, Plaza de Monterrey, Calle Bordadores, Paseo de las Úrsulas e Iglesia de la Vera Cruz.",
+	"horario": "NTRA.SRA. de la Alegria: Salida 10:30H - Jesús Resucitado: Salida 11:00H - Conjunta: 13:00H.",
+	"paso": "Lignum Crucis (Reliquia autenticada de la Cruz de Cristo traída de Roma en el S. XVII. Cruz-relicario, Pedro Benítez, 1675). Las tres marías ante el Sepulcro vacío (imágenes, Pedro Hernández 1617, Santo Sepulcro, anónimo 1678). Nuestra Señora de la Alegría (anónimo S. XVIII). Jesús Resucitado (Alejandro Carnicero, 1725)"
+}
+]
+}
+ ]
+}
