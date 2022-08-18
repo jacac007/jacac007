@@ -1,0 +1,404 @@
+{ 
+"results": 	[
+      {
+      "tID"       : "1",
+      "tProducto" : "Alfa Romeo F1 Team Camiseta",
+      "tPrecio" : 60,
+      "tEscuderia" : "alfa",
+      "tImagen" : "alfaromerocamiseta.jpg",
+      "tTalla"  : "S"
+      },
+      {
+      "tID"       : "2",
+      "tProducto" : "Alfa Romeo F1 Team Polo",
+      "tPrecio" : 70,
+      "tEscuderia" : "alfa",
+      "tImagen" : "alfaromeropolo.jpg",
+      "tTalla"  : "S"
+      },
+      {
+      "tID"       : "3",
+      "tProducto" : "Alpine F1 Team Camiseta",
+      "tPrecio" : 60,
+      "tEscuderia" : "alpine",
+      "tImagen" : "alonsocamiseta.jpg",
+      "tTalla"  : "S"
+      },
+      {
+      "tID"       : "4",
+      "tProducto" : "Alpine F1 Team Coche Alonso",
+      "tPrecio" : 110,
+      "tEscuderia" : "alpine",
+      "tImagen" : "alonsocoche.jpg",
+      "tTalla"  : "S"
+      },
+      {
+      "tID"       : "5",
+      "tProducto" : "Alpine F1 Team Gorra Alonso",
+      "tPrecio" : 35,
+      "tEscuderia" : "alpine",
+      "tImagen" : "alonsogorra.jpg",
+      "tTalla"  : "S"
+      },
+      {
+        "tID"       : "6",
+        "tProducto" : "Alpha Tauri F1 Team Camiseta",
+        "tPrecio" : 60,
+        "tEscuderia" : "alphatauri",
+        "tImagen" : "alphatauricamiseta.jpg",
+        "tTalla"  : "S"
+      },
+      {
+        "tID"       : "7",
+        "tProducto" : "Alpha Tauri F1 Team Polo",
+        "tPrecio" : 70,
+        "tEscuderia" : "alphatauri",
+        "tImagen" : "alphatauripoloblanco.jpg",
+        "tTalla"  : "S"
+      },
+      {
+        "tID"       : "8",
+        "tProducto" : "Alpine F1 Team Camiseta",
+        "tPrecio" : 60,
+        "tEscuderia" : "alpine",
+        "tImagen" : "alpineCamiseta.jpg",
+        "tTalla"  : "S"
+      },
+      {
+        "tID"       : "9",
+        "tProducto" : "Aston Martin F1 Team Camiseta",
+        "tPrecio" : 60,
+        "tEscuderia" : "aston_martin",
+        "tImagen" : "astonmartincamiseta.jpg",
+        "tTalla"  : "S"
+      },
+      {
+        "tID"       : "10",
+        "tProducto" : "Mercedes F1 Team Bottas Camiseta",
+        "tPrecio" : 60,
+        "tEscuderia" : "mercedes",
+        "tImagen" : "bottascamiseta.jpg",
+        "tTalla"  : "S"
+      },
+      {
+        "tID"       : "11",
+        "tProducto" : "Mercedes F1 Team Bottas Gorra",
+        "tPrecio" : 35,
+        "tEscuderia" : "mercedes",
+        "tImagen" : "bottasgorra.jpg",
+        "tTalla"  : "S"
+      },
+      {
+        "tID"       : "12",
+        "tProducto" : "Red Bull F1 Team Checo Camiseta",
+        "tPrecio" : 60,
+        "tEscuderia" : "red_bull",
+        "tImagen" : "bottasgorra.jpg",
+        "tTalla"  : "S"
+      },
+      {
+        "tID"       : "13",
+        "tProducto" : "Red Bull F1 Team Checo Gorra",
+        "tPrecio" : 35,
+        "tEscuderia" : "red_bull",
+        "tImagen" : "checogorra.jpg",
+        "tTalla"  : "S"
+      },
+      {
+        "tID"       : "14",
+        "tProducto" : "Ferrari F1 Team Sudadera",
+        "tPrecio" : 80,
+        "tEscuderia" : "ferrari",
+        "tImagen" : "ferrarisudadera.jpg",
+        "tTalla"  : "S"
+      },
+      {
+        "tID"       : "15",
+        "tProducto" : "Williams F1 Team Russell Gorra",
+        "tPrecio" : 35,
+        "tEscuderia" : "williams",
+        "tImagen" : "georgegorra.jpg",
+        "tTalla"  : "S"
+      },
+      {
+        "tID"       : "16",
+        "tProducto" : "Alfa Romeo F1 Team Giovinazzi Gorra",
+        "tPrecio" : 35,
+        "tEscuderia" : "alfa",
+        "tImagen" : "giogorra.jpg",
+        "tTalla"  : "S"
+      },
+      {
+        "tID"       : "17",
+        "tProducto" : "Mercedes F1 Team Hamilton Gorra",
+        "tPrecio" : 35,
+        "tEscuderia" : "mercedes",
+        "tImagen" : "hamiltoncamiseta.jpg",
+        "tTalla"  : "S"
+      },
+      {
+        "tID"       : "18",
+        "tProducto" : "Mercedes F1 Team Hamilton Gorra",
+        "tPrecio" : 35,
+        "tEscuderia" : "mercedes",
+        "tImagen" : "hamiltongorra.jpg",
+        "tTalla"  : "S"
+      },
+      {
+        "tID"       : "19",
+        "tProducto" : "Mercedes F1 Team Hamilton Sudadera",
+        "tPrecio" : 80,
+        "tEscuderia" : "mercedes",
+        "tImagen" : "hamiltonsudadera.jpg",
+        "tTalla"  : "S"
+      },
+      {
+        "tID"       : "20",
+        "tProducto" : "Mercedes F1 Team Hamilton Sudadera",
+        "tPrecio" : 80,
+        "tEscuderia" : "mercedes",
+        "tImagen" : "hamiltonsudadera2.jpg",
+        "tTalla"  : "S"
+      },
+      {
+        "tID"       : "21",
+        "tProducto" : "Hass F1 Team Gorra",
+        "tPrecio" : 35,
+        "tEscuderia" : "hass",
+        "tImagen" : "hassgorra.jpg",
+        "tTalla"  : "S"
+      },
+      {
+        "tID"       : "22",
+        "tProducto" : "Hass F1 Team Polo",
+        "tPrecio" : 70,
+        "tEscuderia" : "hass",
+        "tImagen" : "hasspolo.jpg",
+        "tTalla"  : "S"
+      },
+      {
+        "tID"       : "23",
+        "tProducto" : "Hass F1 Team Sudadera",
+        "tPrecio" : 80,
+        "tEscuderia" : "hass",
+        "tImagen" : "sudaderahass.jpg",
+        "tTalla"  : "S"
+      },
+      {
+        "tID"       : "24",
+        "tProducto" : "Williams F1 Team Latifi Gorra",
+        "tPrecio" : 35,
+        "tEscuderia" : "williams",
+        "tImagen" : "latifigorra.jpg",
+        "tTalla"  : "S"
+      },
+      {
+        "tID"       : "25",
+        "tProducto" : "Ferrari F1 Team Leclerc Camiseta",
+        "tPrecio" : 60,
+        "tEscuderia" : "ferrari",
+        "tImagen" : "leclerccamiseta.jpg",
+        "tTalla"  : "S"
+      },
+      {
+        "tID"       : "26",
+        "tProducto" : "Ferrari F1 Team Leclerc Gorra",
+        "tPrecio" : 35,
+        "tEscuderia" : "ferrari",
+        "tImagen" : "leclercgorra.jpg",
+        "tTalla"  : "S"
+      },
+      {
+        "tID"       : "27",
+        "tProducto" : "Mclaren F1 Team Chaleco",
+        "tPrecio" : 50,
+        "tEscuderia" : "mclaren",
+        "tImagen" : "mclarenchaleco.jpg",
+        "tTalla"  : "S"
+      },
+      {
+        "tID"       : "28",
+        "tProducto" : "Mclaren F1 Team Chaqueta",
+        "tPrecio" : 85,
+        "tEscuderia" : "mclaren",
+        "tImagen" : "mclarenchaqueta.jpg",
+        "tTalla"  : "S"
+      },
+      {
+        "tID"       : "29",
+        "tProducto" : "Mercedes F1 Team camiseta",
+        "tPrecio" : 60,
+        "tEscuderia" : "mercedes",
+        "tImagen" : "mercedescamiseta.jpg",
+        "tTalla"  : "S"
+      },
+      {
+        "tID"       : "30",
+        "tProducto" : "Mercedes F1 Team Polo",
+        "tPrecio" : 70,
+        "tEscuderia" : "mercedes",
+        "tImagen" : "mercedespolo.jpg",
+        "tTalla"  : "S"
+      },
+      {
+        "tID"       : "31",
+        "tProducto" : "Mercedes F1 Team Sudadera",
+        "tPrecio" : 80,
+        "tEscuderia" : "mercedes",
+        "tImagen" : "mercedessudadera.jpg",
+        "tTalla"  : "S"
+      },
+      {
+        "tID"       : "32",
+        "tProducto" : "Mclaren F1 Team Norris Camiseta",
+        "tPrecio" : 60,
+        "tEscuderia" : "mclaren",
+        "tImagen" : "norriscamiseta.jpg",
+        "tTalla"  : "S"
+      },
+      {
+        "tID"       : "33",
+        "tProducto" : "Mclaren F1 Team Norris Gorra",
+        "tPrecio" : 35,
+        "tEscuderia" : "mclaren",
+        "tImagen" : "norrisgorra.jpg",
+        "tTalla"  : "S"
+      },
+      {
+        "tID"       : "34",
+        "tProducto" : "Alpine F1 Team Coche Ocon",
+        "tPrecio" : 110,
+        "tEscuderia" : "alpine",
+        "tImagen" : "oconcoche.jpg",
+        "tTalla"  : "S"
+      },
+      {
+        "tID"       : "35",
+        "tProducto" : "Alpine F1 Team Ocon Gorra",
+        "tPrecio" : 35,
+        "tEscuderia" : "alpine",
+        "tImagen" : "ocongorra.jpg",
+        "tTalla"  : "S"
+      },
+      {
+        "tID"       : "36",
+        "tProducto" : "Red Bull F1 Team Camiseta",
+        "tPrecio" : 60,
+        "tEscuderia" : "red_bull",
+        "tImagen" : "redbullcamiseta.jpg",
+        "tTalla"  : "S"
+      },
+      {
+        "tID"       : "37",
+        "tProducto" : "Red Bull F1 Team Polo",
+        "tPrecio" : 70,
+        "tEscuderia" : "red_bull",
+        "tImagen" : "redbullpolo.jpg",
+        "tTalla"  : "S"
+      },
+      {
+        "tID"       : "38",
+        "tProducto" : "Mclaren F1 Team Ricciardo Camiseta",
+        "tPrecio" : 60,
+        "tEscuderia" : "mclaren",
+        "tImagen" : "ricciardocamiseeta.jpg",
+        "tTalla"  : "S"
+      },
+      {
+        "tID"       : "39",
+        "tProducto" : "Maclren F1 Team Ricciardo Gorra",
+        "tPrecio" : 35,
+        "tEscuderia" : "mclaren",
+        "tImagen" : "ricciardogorra.jpg",
+        "tTalla"  : "S"
+      },
+      {
+        "tID"       : "40",
+        "tProducto" : "Ferrari F1 Team Sainz Camiseta",
+        "tPrecio" : 60,
+        "tEscuderia" : "ferrari",
+        "tImagen" : "sainzcamiseta.jpg",
+        "tTalla"  : "S"
+      },
+      {
+        "tID"       : "41",
+        "tProducto" : "Ferrari F1 Team Sainz Gorra",
+        "tPrecio" : 35,
+        "tEscuderia" : "ferrari",
+        "tImagen" : "sainzgorra.jpg",
+        "tTalla"  : "S"
+      },
+      {
+        "tID"       : "42",
+        "tProducto" : "Aston Martin F1 Team Stroll Camiseta",
+        "tPrecio" : 60,
+        "tEscuderia" : "aston_martin",
+        "tImagen" : "strollcamiseta.jpg",
+        "tTalla"  : "S"
+      },
+      {
+        "tID"       : "43",
+        "tProducto" : "Aston Martin F1 Team Stroll coche",
+        "tPrecio" : 110,
+        "tEscuderia" : "aston_martin",
+        "tImagen" : "strollcoche.jpg",
+        "tTalla"  : "S"
+      },
+      {
+        "tID"       : "44",
+        "tProducto" : "Red Bull F1 Team Verstappen Camiseta",
+        "tPrecio" : 60,
+        "tEscuderia" : "red_bull",
+        "tImagen" : "verstappencamiseta.jpg",
+        "tTalla"  : "S"
+      },
+      {
+        "tID"       : "45",
+        "tProducto" : "Red Bull F1 Team Verstappen Gorra",
+        "tPrecio" : 35,
+        "tEscuderia" : "red_bull",
+        "tImagen" : "verstappengorra.jpg",
+        "tTalla"  : "S"
+      },
+      {
+        "tID"       : "46",
+        "tProducto" : "Aston Martin F1 Team Vettel Camiseta",
+        "tPrecio" : 60,
+        "tEscuderia" : "aston_martin",
+        "tImagen" : "vettelcamiseta.jpg",
+        "tTalla"  : "S"
+      },
+      {
+        "tID"       : "47",
+        "tProducto" : "Aston Martin F1 Team Vettel Coche",
+        "tPrecio" : 110,
+        "tEscuderia" : "aston_martin",
+        "tImagen" : "vettelcoche.jpg",
+        "tTalla"  : "S"
+      },
+      {
+        "tID"       : "48",
+        "tProducto" : "Williams F1 Team Camiseta",
+        "tPrecio" : 60,
+        "tEscuderia" : "williams",
+        "tImagen" : "williamscamiseta.jpg",
+        "tTalla"  : "S"
+      },
+      {
+        "tID"       : "49",
+        "tProducto" : "Williams F1 Team Chaqueta",
+        "tPrecio" : 85,
+        "tEscuderia" : "williams",
+        "tImagen" : "williamschaqueta.jpg",
+        "tTalla"  : "S"
+      },
+      {
+        "tID"       : "50",
+        "tProducto" : "Williams F1 Team Polo",
+        "tPrecio" : 70,
+        "tEscuderia" : "williams",
+        "tImagen" : "williamspolo.jpg",
+        "tTalla"  : "S"
+      }
+]
+}
