@@ -95,6 +95,14 @@
 	"localizacion" : "Iglesia de la Vera Cruz.",
 	"hora" : "20:30",
 	"cofradia": "Nazareno y Santo Entierro"
+},
+{
+	"id" : "13",
+	"dia" : "24/12/2022",
+	"elevento" : "Triduo",
+	"localizacion" : "Iglesia de la Vera Cruz.",
+	"hora" : "20:30",
+	"cofradia": "Nazareno y Santo Entierro"
 }
 ]
 }
