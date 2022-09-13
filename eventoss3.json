@@ -79,6 +79,22 @@
 	"localizacion" : "Capilla del cementerio católico San Carlos Borromeo.",
 	"hora" : "18:25",
 	"cofradia": "Vera Cruz"
+},
+	{
+	"id" : "11",
+	"dia" : "10/12/2022",
+	"elevento" : "Concierto de la Estrella",
+	"localizacion" : "Iglesia de San Julián.",
+	"hora" : "18:30",
+	"cofradia": "Amor y Paz"
+},
+{
+	"id" : "12",
+	"dia" : "22/12/2022",
+	"elevento" : "Via Matris",
+	"localizacion" : "Iglesia de la Vera Cruz.",
+	"hora" : "20:30",
+	"cofradia": "Nazareno y Santo Entierro"
 }
 ]
 }
